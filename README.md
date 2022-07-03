@@ -1,8 +1,10 @@
 # How to run project
 
-1. Open three terminal sessions
+1. Run npm install as it will install the dependecies
 
-2. Run these commands in each of them
+2. Open three terminal sessions
+
+3. Run these commands in each of them
 
 ```
 dfx start
@@ -16,7 +18,7 @@ dfx deploy
 npm start
 ```
 
-3. You can check the project at local host 8080
+4. You can check the project at local host 8080
 
 
 # Check your Balance
