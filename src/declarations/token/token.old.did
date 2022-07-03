@@ -1,0 +1,8 @@
+service : {
+  freeTokens: () -> (bool);
+  getBalance: (principal) -> (nat) query;
+  getOwnBalance: () -> (nat);
+  getSymbol: () -> (text) query;
+  getTotalSupply: () -> (nat) query;
+  transfer: (principal, nat) -> (bool);
+}
